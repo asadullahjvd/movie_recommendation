@@ -1,4 +1,3 @@
-streamlit
 fastapi
 uvicorn
 scikit-learn
@@ -7,4 +6,4 @@ pandas
 numpy
 requests
 pydantic
-pillow
+python-dotenv
